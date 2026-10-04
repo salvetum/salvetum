@@ -2,22 +2,20 @@
 
 ###  Hakkımda
 
-- Şu anda üniversite sınavına hazırlanıyorum.
+- Şu anda üniversiteye (YKS) hazırlanıyorum.
 - Ders çalışmadığım zamanlar kafamda boş boş dolaşan fikirleri hayata geçirmeye çalışıyorum
 - Müzik dinlemeyi, fotoğraf düzenlemeyi, video editlemeyi ve bolca oyun oynamayı severim
-- Tam bir glassmorphism fanboyuyum projelerimde de bunu yansıtmaya olabildiğince çalışıyorum
+- Tam bir glassmorphism fanboyuyum, projelerimde de bunu yansıtmaya olabildiğince çalışıyorum
 - Kedileri, tavşanları ve genel olarak çoğu hayvanları (lanet olası böcekler hariç) çok severim
 
----
-
-## Aktif olarak üzerinde çalıştığım projeler (neredeyse hepsi vibecoding ile yapıldı 😭😭)
+## Aktif olarak üzerinde çalıştığım projeler
 
 ### 🔐 **[ŞifreKasam](https://github.com/salvetum/SifreKasam)**
 - Electron + Flask tabanlı, açık kaynak masaüstü şifre yöneticisi. bağımsız bir güvenlik kontrolünden geçmese de olabildiğince güvenli hale getirmeye çalışıyorum. tasarımda ağır bir şekilde glassmorphisim kullandım.
 
 - Projenin devamlılığına değinirsek V2.7.0+ Sürüm ve üstü sadece stabilite / güvenlik / bug-fix güncellemeleri alacaktır, Ek bilgi için: [V3 Rewrite](https://github.com/salvetum/SifreKasam/blob/v3/README.md) 
 
-### 🎧 **[SSC On Windows](https://github.com/salvetum/SSCOnWindows)** (DMCA takedown garantili repo...)
+### 🎧 **[SSC On Windows](https://github.com/salvetum/SSCOnWindows)**
 - Samsung Seamless Codec (SSC) desteğini Windows'a taşıyan bir proje, WinUI3 + Mica tasarımlı bir arayüzü var. 
 
 - halen "TAM" bir sürüm bulunmamakta, güncelleme almaya devam edecektir. 
@@ -64,5 +62,3 @@
 Eğer benle bir iletişim kurmak istiyorsanız `salvetum@proton.me` maili aracığıyla iletişim kurabilirsiniz. (Not: cevap vermem uzun sürebilir, maillerimi sıkça kontrol eden bir insan değilim)
 
 ---
-
-<p align="center">💬 Sorular, öneriler veya iş birlikleri için buradayım — bir issue açman ya da profilden ulaşman yeterli!</p>
